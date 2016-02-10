@@ -1,11 +1,5 @@
-.content.blue {
-  background-color: blue;
-}
-.content.green{
-  background-color: green;
-}
-.content.red {
-  background-color: red;
+.content {
+  font-size: 100px;
 }
 img {
   height: 200px;
