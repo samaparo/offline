@@ -1,0 +1,13 @@
+.content.blue {
+  background-color: blue;
+}
+.content.green{
+  background-color: green;
+}
+.content.red {
+  background-color: red;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
